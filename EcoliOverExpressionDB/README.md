@@ -41,4 +41,3 @@ To the best of the researchers' knowledge, **EcoliOverExpressionDB** is the **fi
 ## 🔗 **Reference**
 **Original Article**: [Recombinant protein overexpression in Escherichia coli - PubMed](https://pubmed.ncbi.nlm.nih.gov/24333540/)  
 
-This README serves as a summary of the **EcoliOverExpressionDB** concept and its relevance to recombinant protein production in **E. coli**. For more details, refer to the [PubMed Article](https://pubmed.ncbi.nlm.nih.gov/24333540/).
