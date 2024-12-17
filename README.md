@@ -4,7 +4,7 @@ This repository contains analyses and scripts from my Master's, PhD, and postdoc
 
 ## Projects Overview
 
-### Master's
+### MSc Project
 - Protein Contact Map Prediction Using Committee Machine Approach.
 
 ### PhD Project
