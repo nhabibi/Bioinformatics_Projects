@@ -3,7 +3,7 @@
 This folder contains the code and materials for my master's thesis, which focuses on predicting protein contact maps using a committee machine approach.
 
 ### Thesis
-Protein Contact Map Prediction Using Committee Machine Approach
+"Protein Contact Map Prediction Using Committee Machine Approach"
 
 ## Papers
 1. **Protein Contact Map Prediction Based on an Ensemble Learning Method**  
