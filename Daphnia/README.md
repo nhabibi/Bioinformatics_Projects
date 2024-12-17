@@ -1,4 +1,4 @@
-# Postdoctoral Research: Daphnia Analysis
+# Multiomics Analysis of Daphnia Species
 
 This project involves various analyses related to Daphnia, focusing on metabolomics and RNA sequencing during my postdoctoral research.
 
