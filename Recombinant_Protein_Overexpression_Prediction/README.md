@@ -12,7 +12,3 @@ This folder contains materials related to my PhD thesis, titled "Recombinant Pro
 4. [Paper 4: Title](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4Z3b1qIAAAAJ&sortby=pubdate&citation_for_view=4Z3b1qIAAAAJ:ns9cj8rnVeAC)
 5. [Paper 5: Title](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4Z3b1qIAAAAJ&sortby=pubdate&citation_for_view=4Z3b1qIAAAAJ:GnPB-g6toBAC)
 
-## Overview
-This research aims to develop models that predict the successful overexpression of proteins in E. coli, a widely used host organism. The database and prediction models assist researchers in optimizing expression conditions.
-
-Feel free to explore the code, data, and papers included in this folder.
