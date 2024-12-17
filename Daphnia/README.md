@@ -13,4 +13,3 @@ This project involves various analyses related to Daphnia, focusing on metabolom
 - **Nextflow-Daphnia Multiomics Analysis**  
   This is a Nextflow pipeline designed for multi-omics analysis of Daphnia data. It orchestrates the integration of metabolomics and RNA sequencing data for a more comprehensive analysis.
 
-Feel free to explore the scripts and methods used in the analysis!
