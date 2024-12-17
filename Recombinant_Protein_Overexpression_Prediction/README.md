@@ -10,5 +10,10 @@ This folder contains materials related to my PhD thesis, which focuses on predic
   N Habibi, A Norouzi, SZM Hashim, MS Shamsir, R Samian, Computers in Biology and Medicine, 2015
 - [**A Review of Machine Learning Methods to Predict the Solubility of Overexpressed Recombinant Proteins in Escherichia coli**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4Z3b1qIAAAAJ&sortby=pubdate&citation_for_view=4Z3b1qIAAAAJ:ns9cj8rnVeAC)
   N Habibi, SZ Mohd Hashim, A Norouzi, MR Samian - BMC bioinformatics, 2014
-
+- [**EcoliOverExpressionDB: A Database of Recombinant Protein Overexpression in E. coli**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4Z3b1qIAAAAJ&sortby=pubdate&citation_for_view=4Z3b1qIAAAAJ:GnPB-g6toBAC)
+  N Habibi, SZ Mohd Hashim, A Norouzi, MR Samian, BMC bioinformatics, 2014
+  
+  
+  
+  
 
