@@ -3,8 +3,11 @@
 This folder contains materials related to my PhD thesis, which focuses on predicting the successful overexpression of recombinant proteins, a crucial aspect of biotechnology.
 
 ![Alt text](Schema1.jpg)
+
 ![Alt text](Schema2.jpg)
+
 ![Alt text](Schema3.jpg)
+
 ![Alt text](Research_Design.jpg)
 
 ## PhD Thesis
