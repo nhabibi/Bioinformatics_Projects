@@ -5,6 +5,9 @@ This folder contains materials related to my PhD thesis, which focuses on predic
 ## PhD Thesis
 [Recombinant Protein Overexpression Prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4Z3b1qIAAAAJ&sortby=pubdate&citation_for_view=4Z3b1qIAAAAJ:NaGl4SEjCO4C)
 
+## Viva Slides
+[📄 View Slide PDF](Viva-PhD.pdf)
+
 ## Papers
 - [**Prediction of Recombinant Protein Overexpression in Escherichia coli Using a Machine Learning Based Model (RPOLP)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4Z3b1qIAAAAJ&sortby=pubdate&citation_for_view=4Z3b1qIAAAAJ:d1gkVwhDpl0C)  
   N Habibi, A Norouzi, SZM Hashim, MS Shamsir, R Samian; Computers in Biology and Medicine; 2015
