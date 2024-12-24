@@ -3,7 +3,10 @@
 This folder contains the code and materials for my master's thesis, which focuses on predicting protein contact maps using a committee machine approach.
 
 ### MSc Thesis
-"Protein Contact Map Prediction Using Committee Machine Approach"
+[Protein Contact Map Prediction Using Committee Machine Approach](Thesis-MSc.pdf)
+
+## MSc Viva 
+[Slide](Viva-MSc.pdf)
 
 ## Papers
 - [**Protein Contact Map Prediction Using Committee Machine Approach**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4Z3b1qIAAAAJ&sortby=pubdate&citation_for_view=4Z3b1qIAAAAJ:d1gkVwhDpl0C)  
